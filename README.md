@@ -16,13 +16,13 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 
 ## 🛠️ Tech Stack
 
-- Machine Learning: Tensorflow, Pytorch, Sci-kit learn
-- Generative AI: Tensorflow, Pytorch
-- Android Development: React Native
-- Backend Development: Django Rest Framework, FlaskRestful
-- Databases: SQLite, postgreSQL, mySQL
-- Tools: Jupyter Notebook, Google Colab, VS Code
-- Cloud: Hugging Face, Streamlit, Gradio, PythonAnywhere
+- **Machine Learning**: Tensorflow, Pytorch, Sci-kit learn
+- **Generative AI**: Tensorflow, Pytorch
+- **Android Development**: React Native
+- **Backend Development**: Django Rest Framework, FlaskRestful
+- **Databases**: SQLite, postgreSQL, mySQL
+- **Tools**: Jupyter Notebook, Google Colab, VS Code
+- **Cloud**: Hugging Face, Streamlit, Gradio, PythonAnywhere
 
 ## 💼 Professional Experience
 
