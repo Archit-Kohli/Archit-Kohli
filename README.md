@@ -36,6 +36,8 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 - [AI Generated Text Detector](https://ai-generated-text-detection.streamlit.app/) - Find out if a piece of text was written by an AI
 - LocalFood - A mega project that I have been working on 👀
 
+
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Archit-Kohli)
 - [Email](architkohli321@gmail.com)
@@ -43,19 +45,17 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat. 😄
 
 
-<table align="center">
+<table>
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats-Archit-Kohli.vercel.app/api?username=Archit-Kohli&show_icons=true&theme=radical" />
-  <br/>
+<td width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit-Kohli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats-Archit-Kohli.vercel.app/api/top-langs/?username=Archit-Kohli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
+
+**Languages and Tools:**
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,firebase,github,git,gitlab,html,css,js,django,flask,mysql,postgres,postman,react,vscode,replit,stackoverflow,&perline=14" />
+  </a>
