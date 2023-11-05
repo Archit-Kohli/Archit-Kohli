@@ -14,40 +14,36 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 
 ## 🛠️ Tech Stack
 
-- Machine Learning: [Your ML Frameworks and Libraries]
-- Generative AI: [List Generative AI Frameworks]
-- Android Development: [React Native]
-- Backend Development: [Django Rest Framework]
-- Databases: [Your Databases]
-- Tools: [Your Tools and IDEs]
-- Cloud: [Your Cloud Services]
+- Machine Learning: Tensorflow, Pytorch, Sci-kit learn
+- Generative AI: Tensorflow, Pytorch
+- Android Development: React Native
+- Backend Development: Django Rest Framework, FlaskRestful
+- Databases: SQLite, postgreSQL, mySQL
+- Tools: Jupyter Notebook, Google Colab, VS Code
+- Cloud: Hugging Face, Streamlit, Gradio, PythonAnywhere
 
 ## 💼 Professional Experience
 
-- [Company 1] - [Position] - [Date Range]
-- [Company 2] - [Position] - [Date Range]
-- [Company 3] - [Position] - [Date Range]
+- GeekRoom - Head of Emerging Technologies - 27 August 2023-Present
+- Contributor - GirlScript Summmer of Code - 20 May 2023-10 August 2023
+- Contributor - Hacktoberfest - 1 October 2023-31 October 2023
 
 ## 🌟 Fun Projects
 
-- [Generative Project] - [Short Description]
-- [React Native App] - [Short Description]
-- [Django Rest API] - [Short Description]
-
-Check out my GitHub repositories to explore more!
+- [Landscape Image Colorizer](https://huggingface.co/spaces/THEGAMECHANGER/LandscapeColorizer) - Convert any black and white landscape image to color using pix2pix based GAN.
+- [AI Generated Text Detector](https://ai-generated-text-detection.streamlit.app/) - Find out if a piece of text was written by an AI
+- LocalFood - A mega project that I have been working on 👀
 
 ## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-username)
-- [Twitter](https://twitter.com/your-username)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/Archit-Kohli)
+- [Email](architkohli321@gmail.com)
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat. 😄
 
 ## 📊 GitHub Stats
 
-[![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit-Kohli&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-Kohli&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Feel free to add more sections, badges, or customize it as you like! -->
