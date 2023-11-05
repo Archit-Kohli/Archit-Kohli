@@ -43,3 +43,19 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat. 😄
 
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats-Archit-Kohli.vercel.app/api?username=Archit-Kohli&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archit-Kohli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats-Archit-Kohli.vercel.app/api/top-langs/?username=Archit-Kohli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
