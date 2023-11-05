@@ -47,3 +47,4 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just have 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-Kohli&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Feel free to add more sections, badges, or customize it as you like! -->
+[![An image of @architkohli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/architkohli)](https://holopin.io/@architkohli)
