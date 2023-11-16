@@ -32,6 +32,7 @@ I'm a passionate Machine Learning enthusiast, with a particular fascination for 
 
 ## 🌟 Fun Projects
 
+- [AnimizerGAN](https://huggingface.co/spaces/ArchitKohli/AnimizerGAN) - A CycleGAN based project that converts images of human faces to Anime like images
 - [Landscape Image Colorizer](https://huggingface.co/spaces/THEGAMECHANGER/LandscapeColorizer) - Convert any black and white landscape image to color using pix2pix based GAN.
 - [AI Generated Text Detector](https://ai-generated-text-detection.streamlit.app/) - Find out if a piece of text was written by an AI
 - LocalFood - A mega project that I have been working on 👀
