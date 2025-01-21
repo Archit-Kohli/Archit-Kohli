@@ -6,7 +6,7 @@ I'm a passionate Deep Learning enthusiast, with a particular fascination for Gen
 
 ## 🚀 Quick Facts
 
-- 🔭 I recently completed 5 months as a Machine Learning Engineer Intern at Zomato.
+- 🔭 I recently completed 5 months as an intern in the GenAI team at Zomato.
 - 🌱 I'm constantly learning and expanding my skills in Deep Learning and GenAI.
 - 💡 I'm excited about the creative possibilities of Generative AI and its real-world applications.
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
