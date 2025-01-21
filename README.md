@@ -20,9 +20,9 @@ I'm a passionate Deep Learning enthusiast, with a particular fascination for Gen
 - **Generative AI**: Hugging Face, Langchain
 - **Android Development**: React Native
 - **Backend Development**: Django Rest Framework, FlaskRestful
-- **Databases**: SQLite, postgreSQL, mySQL
-- **Tools**: Jupyter Notebook, Google Colab, VS Code
-- **Cloud**: Hugging Face, Streamlit, Gradio, PythonAnywhere
+- **Databases**: SQLite, postgreSQL, mySQL, Qdrant
+- **Tools**: Docker, Kubernetes, Jupyter Notebook, Google Colab, VS Code
+- **Cloud**: AWS, Azure,
 
 ## 💼 Professional Experience
 
