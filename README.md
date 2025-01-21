@@ -45,6 +45,7 @@ I'm a passionate Deep Learning enthusiast, with a particular fascination for Gen
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat. 😄
 
 (I also do some leetcode in my free time)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/architkohli321?theme=transparent&font=ABeeZee&ext=heatmap)
 
 **Languages and Tools:**
