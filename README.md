@@ -6,7 +6,7 @@ I'm a passionate Deep Learning enthusiast, with a particular fascination for Gen
 
 ## 🚀 Quick Facts
 
-- 🔭 I recently completed 5 months as an intern in the GenAI team at Zomato.
+- 🔭 I recently completed an internship in the GenAI team at Zomato.
 - 🌱 I'm constantly learning and expanding my skills in Deep Learning and GenAI.
 - 💡 I'm excited about the creative possibilities of Generative AI and its real-world applications.
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
@@ -26,9 +26,9 @@ I'm a passionate Deep Learning enthusiast, with a particular fascination for Gen
 
 ## 💼 Professional Experience
 
-- GeekRoom - Head of Emerging Technologies - 27 August 2023-Present
-- Contributor - GirlScript Summmer of Code - 20 May 2023-10 August 2023
-- Contributor - Hacktoberfest - 1 October 2023-31 October 2023
+- Zomato - Intern (GenAI Vision Team) - Jun 2024 - Nov 2024
+- GeekRoom - Head of Emerging Technologies - Aug 2023 - Present
+- Contributor - Hacktoberfest - October 2023 - October 2023
 
 ## 🌟 Projects
 
